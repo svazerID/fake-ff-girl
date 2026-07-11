@@ -1,0 +1,22 @@
+{
+  "name": "fake-ff",
+  "version": "1.0.2",
+  "description": "Fake Free Fire lobby card generator",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "free-fire",
+    "fake-ff",
+    "card-generator",
+    "canvas",
+    "telegram-bot",
+    "whatsapp-bot"
+  ],
+  "author": "svazerID",
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.0"
+  }
+}
